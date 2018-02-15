@@ -11,8 +11,7 @@ import javax.swing.border.TitledBorder;
 
 /**
  * Lab Assignment 7-GUI for the Finch
- * 4/20/16
- * @author Joey Reidell & Jonathan Rock & James Novakowski
+ * @author Joey Reidell 
  */
 public class FinchGUI extends JPanel{
     private Finch jerry;
