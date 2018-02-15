@@ -6,8 +6,7 @@ import javax.swing.*;
 
 /**
  * Lab Assignment 7-GUI for the Finch
- * 4/20/6
- * @author Joey Reidell & Jonathan Rock & James Novakowski
+ * @author Joey Reidell 
  */
 public class LabAssign7 extends JFrame{
     
