@@ -12,8 +12,7 @@ import javax.swing.event.ChangeListener;
 
 /**
  * GUI with Sliders
- * @author Joey Reidell & Jonathan Rock & James Novakowski
- * 4/25/16
+ * @author Joey Reidell
  */
 public class FinchSlider extends JFrame{
     private JSlider leftVelocity, rightVelocity, 
